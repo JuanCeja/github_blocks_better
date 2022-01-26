@@ -1,0 +1,41 @@
+.container {
+    background-color: #f4f4f4;
+    text-align: center;
+    padding: 20px;
+    width: 800px;
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 50px;
+    margin-top: 5px;
+}
+
+.row{
+    display: flex;
+    border: 1px solid black;
+    margin-bottom: 15px;
+}
+
+.blue {
+    background-color: lightblue;
+    justify-content: space-between;
+    padding: 15px;
+}
+
+.gray {
+    background-color: gray;
+    justify-content:space-evenly;
+}
+
+.white{
+    background-color: ghostwhite;
+    justify-content: center;
+}
+
+img.octocat {
+    height: 200px;
+}
+
+
+
